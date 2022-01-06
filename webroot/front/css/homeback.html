@@ -1,0 +1,1355 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <!-- Basic -->
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <!-- Mobile Metas -->
+      <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+      <!-- Site Metas -->
+      <title>Book Store</title>
+      <meta name="keywords" content="">
+      <meta name="description" content="">
+      <meta name="author" content="">
+      <!-- Site Icons -->
+      <link rel="shortcut icon" href="images/logo.png" type="image/x-icon" />
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <!-- Bootstrap CSS -->
+      <link rel="stylesheet" href="css/bootstrap.min.css">
+      <!-- Site CSS -->
+      <link rel="stylesheet" href="style.css">
+      <!-- Responsive CSS -->
+      <link rel="stylesheet" href="css/responsive.css">
+      <!-- Custom CSS -->
+      <link rel="stylesheet" href="css/custom.css">
+      <!-- Modernizer for Portfolio -->
+      <script src="js/modernizer.js"></script>
+      <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+      <![endif]-->
+   </head>
+   <body>
+      <!-- LOADER -->
+      <div id="preloader">
+         <div class="loader">
+            <div class="loader__bar"></div>
+            <div class="loader__bar"></div>
+            <div class="loader__bar"></div>
+            <div class="loader__bar"></div>
+            <div class="loader__bar"></div>
+            <div class="loader__ball"></div>
+         </div>
+      </div>
+      <!-- end loader -->
+      <!-- END LOADER -->
+      <div class="top-bar">
+         <div class="container-fluid">
+            <div class="row">
+               <div class="col-md-3 col-sm-6 col-xs-3">
+                  <div class="left-top">
+                     <div class="email-box">
+                        <a href="#">
+                           <section>
+                              <select class="selectColor" onchange="changeColor(this)">
+                                 <option value="#ff2323">English</option>
+                                 <option value="#9b1fe8">Hindi</option>
+                              </select>
+                           </section>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-md-6 col-sm-6 col-xs-4">
+                  <div class="left-top">
+                     <center>
+                        <div class="phone-box"> <img src="images/book stor logo.png" alt="image" class="logo"> </div>
+                     </center>
+                  </div>
+               </div>
+               <div class="col-md-3 col-sm-6 col-xs-5">
+                  <div class="right-top">
+                     <div class="social-box listcolor">
+                        <ul>
+                        <li>
+                           <a href="#">
+                              <div class="dropdown">
+                                 <i onclick="myFunction1()" class="fa fa-search" aria-hidden="true"></i>
+                                 <div id="myDropdown1" class="dropdown-content">
+                                    <input type="text" placeholder="Search.." id="myInput" onkeyup="filterFunction()">
+                                 </div>
+                              </div>
+                           </a>
+                        </li>
+                        <li><a href="#"><i class="fa fa-heart-o" aria-hidden="true"></i>
+                           </a>
+                        </li>
+                        <li>
+                           <a href="#">
+                              <div class="dropdown">
+                                 <i onclick="myFunction()" class="fa fa-cog dropbtn" aria-hidden="true"></i>
+                                 <div id="myDropdown" class="dropdown-content">
+                           <a href="#about" class="line">Setting</a>
+                           <div class="close"><i class="uil uil-times"></i></div>
+                           <a href="my_account.html">My Account</a>
+                           <a href="login.html">Login</a>
+                           <a href="">Create Account</a>
+                           <a href="logout.html">Log out</a>
+                           </div>
+                           </div>
+                           </a>
+                        </li>
+                        <li>
+                           <a href="#">
+                              <i class="fa fa-shopping-cart view-modal" aria-hidden="true"></i>
+                              <div class="popup">
+                                 <header>
+                                    <h2 class="featured">Add Cart</h2>
+                                    <div class="close"><i class="fa fa-times" aria-hidden="true"></i></div>
+                                 </header>
+                                 <div class="content">
+                                    <div class="row">
+                                       <div class="col-lg-4">
+                                          <img src="images/9.png" alt="" class="img-responsive img-rounded cartimg">
+                                       </div>
+                                       <div class="col-lg-8">
+                                          <p>Death : The Inside Story</p>
+                                          <p class="textcart">by Sadhguru Jaggi Vasudev (Author)</p>
+                                          <h2></h2>
+                                       </div>
+                                    </div>
+                                    <div class="row">
+                                       <div class="col-lg-8">
+                                          <span class="badge">Sub Total :</span>
+                                       </div>
+                                       <div class="col-lg-4">
+                                          <span class="badge">QAR 40</span>
+                                          <h2></h2>
+                                       </div>
+                                    </div>
+                                    <div class="row">
+                                       <div class="col-lg-8">
+                                          <span class="badge">Total :</span>
+                                       </div>
+                                       <div class="col-lg-4">
+                                          <span class="badge">QAR 40</span>
+                                          <h2></h2>
+                                       </div>
+                                    </div>
+                                    <hr class="hr2">
+                                    <div class="field">
+                                       <center> 
+                           <a class="button btn btn-light view btn-radius btn-brd" href="#"> View Cart </a></center>
+                           </div>
+                           <br>
+                           <div class="field">
+                           <center> <a class="button btn btn-light view btn-radius btn-brd " href="check_out.html">Checkout </a></center>
+                           </div>
+                           </div>
+                           </div>
+                           </a>
+                        </li>
+                        <ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <header class="header header_style_01">
+         <nav class="megamenu navbar navbar-default">
+            <div class="container-fluid">
+               <div class="navbar-header">
+                  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+                  <section>
+                     <select class="categryy" onchange="changeColor(this)">
+                        <i class="fa fa-bars" aria-hidden="true"></i>
+                        <option value="#ff2323"><i class="fa fa-bars"></i>All Categories</option>
+                        <option value="#9b1fe8">Hindi</option>
+                     </select>
+                  </section>
+               </div>
+               <div id="navbar" class="navbar-collapse collapse">
+                  <ul class="nav navbar-nav navbar-right">
+                     <li><a class="active" href="home.html">Home</a></li>
+                     <li><a href="category.html">category</a></li>
+                     <li><a href="blog.html">Blog</a></li>
+                     <li><a href="about.html">About</a></li>
+                     <li><a href="contact.html">Contact</a></li>
+                     <li><a href="#">Free Shipping on order S50+</a></li>
+                  </ul>
+               </div>
+            </div>
+         </nav>
+      </header>
+      <div class="slider-area">
+         <div class="slider-wrapper owl-carousel">
+            <div class="slider-item home-one-slider-otem slider-item-four slider-bg-one">
+               <div class="container">
+                  <div class="row">
+                     <div class="slider-content-area">
+                        <div class="slide-text">
+                           <div class="col-lg-offset-6 col-lg-6">
+                              <h2>New Arrivals</h2>
+                              <h1 class="homepage-three-title">new Author Book <span>Installation</span></h1>
+                              <h2>Shop to get what ypu love. </h2>
+                              <div class="slider-content-btn"> <a class="button btn btn-light btn-radius btn-brd" href="#">Start Buying</a>  </div>
+                           </div>
+                          
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="slider-item  home-two-slider-otem slider-item-four slider-bg-two">
+               <div class="container">
+                  <div class="row">
+                     <div class="slider-content-area">
+                        <div class="slide-text">
+                           <div class="  col-lg-6">
+                              <h1 class="homepage-three-title">new Author Book <span>Installation</span></h1>
+                              <h2>Shop to get what ypu love. </h2>
+                              <div class="slider-content-btn"> <a class="button btn btn-light btn-radius btn-brd" href="#">Start Buying</a>  </div>
+                           </div>
+                           <!--  <div class="col-lg-6"> <img src="uploads/about_01.jpg" alt="" class="img-responsive img-rounded"> </div> -->
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="slider-item home-three-slider-otem slider-item-four slider-bg-three">
+               <div class="container">
+                  <div class="row">
+                     <div class="slider-content-area">
+                        <div class="slide-text">
+                           <div class=" col-lg-6 ">
+                              <h1 class="homepage-three-title">Outstanding <span>Installation</span> Services</h1>
+                              <h2>With GoodWEB Solutions responsive landing page template, <br>you can promote your all web design & development services. </h2>
+                              <div class="slider-content-btn"> <a class="button btn btn-light btn-radius btn-brd" href="#">Start Buying</a>  </div>
+                           </div>
+                           <!--  <div class="col-lg-6"> <img src="uploads/about_01.jpg" alt="" class="img-responsive img-rounded"> </div> -->
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div id="about" class="section wb ptop">
+         <div class="container">
+            <div class="row bokhead">
+               <div class="col-md-3 ">
+                  <h3 class="featured"> Featured Books </h3>
+               </div>
+               <div class="col-md-6">
+                  <h3 class="hover"> On Sales</h3>
+               </div>
+               <div class="col-md-3">
+                  <h3 class="hover">Top Rated</h3>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-md-3 ">
+                  <div class="card zoom">
+                     <img src="images/1.png" alt="" class="img-responsive img-rounded">
+                     <div class="container">
+                        <h4><b>We are going down</b></h4>
+                        <p class="mb-0">By chetan Bhagat</p>
+                        <b class="qar">QAR 10.19</b> <span class="star"><i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i> </span> 
+                     </div>
+                     <div class="row ">
+                        <div class="col-lg-4 col-lg-offset-8 float-right">
+                           <i class="fa fa-archive" aria-hidden="true"></i>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- end media -->
+               </div>
+               <div class="col-md-3 mobcard">
+                  <div class="card zoom">
+                     <img src="images/2.png" alt="" class="img-responsive img-rounded">
+                     <div class="container">
+                        <h4><b>We are going down</b></h4>
+                        <p class="mb-0">By chetan Bhagat</p>
+                        <b class="qar">QAR 10.19</b> <span class="star"><i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i> </span> 
+                     </div>
+                     <div class="row ">
+                        <div class="col-lg-4 col-lg-offset-8 float-right">
+                           <i class="fa fa-archive" aria-hidden="true"></i>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- end media -->
+               </div>
+               <div class="col-md-3 mobcard">
+                  <div class="card zoom">
+                     <img src="images/3.png" alt="" class="img-responsive img-rounded">
+                     <div class="container">
+                        <h4><b>We are going down</b></h4>
+                        <p class="mb-0">By chetan Bhagat</p>
+                        <b class="qar">QAR 10.19</b> <span class="star"><i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i> </span> 
+                     </div>
+                     <div class="row ">
+                        <div class="col-lg-4 col-lg-offset-8 float-right">
+                           <i class="fa fa-archive" aria-hidden="true"></i>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- end media -->
+               </div>
+               <div class="col-md-3 mobcard" >
+                  <div class="card zoom ">
+                     <img src="images/4.png" alt="" class="img-responsive img-rounded">
+                     <div class="container">
+                        <h4><b>We are going down</b></h4>
+                        <p class="mb-0">By chetan Bhagat</p>
+                        <b class="qar">QAR 10.19</b> <span class="star"><i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i> </span> 
+                     </div>
+                     <div class="row ">
+                        <div class="col-lg-4 col-lg-offset-8 float-right">
+                           <i class="fa fa-archive" aria-hidden="true"></i>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- end media -->
+               </div>
+               <!-- end col -->
+            </div>
+            <!-- end row -->
+            <!-- end row -->
+         </div>
+         <!-- end container -->
+      </div>
+      <!-- end section -->
+      <div id="about" class="section wb ptop">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-3 mobcard">
+                  <div class="card zoom">
+                     <img src="images/1.png" alt="" class="img-responsive img-rounded">
+                     <div class="container">
+                        <h4><b>We are going down</b></h4>
+                        <p class="mb-0">By chetan Bhagat</p>
+                        <b class="qar">QAR 10.19</b> <span class="star"><i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i> </span> 
+                     </div>
+                     <div class="row ">
+                        <div class="col-lg-4 col-lg-offset-8 float-right">
+                           <i class="fa fa-archive" aria-hidden="true"></i>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- end media -->
+               </div>
+               <div class="col-md-3 mobcard">
+                  <div class="card zoom">
+                     <img src="images/2.png" alt="" class="img-responsive img-rounded">
+                     <div class="container">
+                        <h4><b>We are going down</b></h4>
+                        <p class="mb-0">By chetan Bhagat</p>
+                        <b class="qar">QAR 10.19</b> <span class="star"><i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i> </span> 
+                     </div>
+                     <div class="row ">
+                        <div class="col-lg-4 col-lg-offset-8 float-right">
+                           <i class="fa fa-archive" aria-hidden="true"></i>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- end media -->
+               </div>
+               <div class="col-md-3 mobcard">
+                  <div class="card zoom">
+                     <img src="images/3.png" alt="" class="img-responsive img-rounded">
+                     <div class="container">
+                        <h4><b>We are going down</b></h4>
+                        <p class="mb-0">By chetan Bhagat</p>
+                        <b class="qar">QAR 10.19</b> <span class="star"><i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i> </span> 
+                     </div>
+                     <div class="row ">
+                        <div class="col-lg-4 col-lg-offset-8 float-right">
+                           <i class="fa fa-archive" aria-hidden="true"></i>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- end media -->
+               </div>
+               <div class="col-md-3 mobcard">
+                  <div class="card zoom">
+                     <img src="images/4.png" alt="" class="img-responsive img-rounded">
+                     <div class="container">
+                        <h4><b>We are going down</b></h4>
+                        <p class="mb-0">By chetan Bhagat</p>
+                        <b class="qar">QAR 10.19</b> <span class="star"><i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i> </span> 
+                     </div>
+                     <div class="row ">
+                        <div class="col-lg-4 col-lg-offset-8 float-right">
+                           <i class="fa fa-archive" aria-hidden="true"></i>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- end media -->
+               </div>
+               <!-- end col -->
+            </div>
+            <!-- end row -->
+            <!-- end row -->
+         </div>
+         <!-- end container -->
+      </div>
+      <div class="parallax section noover" data-stellar-background-ratio="0.7" style="background-image:url('images/backimg.png');">
+         <div class="container">
+            <div class="row text-center">
+               <div class="col-md-6">
+                  <img src="images/5.png" alt="" class="img-responsive ">
+               </div>
+               <!-- end col -->
+               <div class="col-md-6">
+                  <div class="text-center image-center hidden-sm hidden-xs">
+                     <img src="images/6.png" alt="" class="img-responsive ">
+                  </div>
+               </div>
+            </div>
+            <!-- end row -->
+         </div>
+         <!-- end container -->
+      </div>
+      <div id="about" class="section wb pbottom">
+         <div class="container">
+            <div class="row bokhead">
+               <div class="col-md-3 ">
+                  <h3 class="featured"> Popular books genres</h3>
+               </div>
+               <div class="col-md-9 ">
+                  <div class="row bokhead">
+                     <div class="col-md-2 textr ">
+                        <h3 class="hover">Bestsellers </h3>
+                     </div>
+                     <div class="col-md-2 textr">
+                        <h3 class="hover">Fiction</h3>
+                     </div>
+                     <div class="col-md-2 textr">
+                        <h3 class="hover"> SCI-Fi  </h3>
+                     </div>
+                     <div class="col-md-2 textr">
+                        <h3 class="hover"> Fantasy </h3>
+                     </div>
+                     <div class="col-md-2 textr">
+                        <h3 class="hover">Thriller</h3>
+                     </div>
+                     <div class="col-md-2 textr">
+                        <h3 class="hover"> View All </h3>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-md-3">
+                  <div class="card">
+                     <ul class="list-group">
+                        <li class="list-group-item active">Popular Books</li>
+                        <li class="list-group-item">Action</li>
+                        <li class="list-group-item">Adventures</li>
+                        <li class="list-group-item">Classic</li>
+                        <li class="list-group-item">Comic Book</li>
+                        <li class="list-group-item">Graphic novel</li>
+                        <li class="list-group-item"> Detective</li>
+                        <li class="list-group-item">Second item</li>
+                        <li class="list-group-item">My Story</li>
+                     </ul>
+                  </div>
+               </div>
+               <div class="col-md-3">
+                  <div class="card zoom">
+                     <img src="images/10.png" alt="" class="img-responsive img-rounded">
+                     <div class="container">
+                        <h4><b>We are going down</b></h4>
+                        <p class="mb-0">By chetan Bhagat</p>
+                        <b class="qar">QAR 10.19</b> <span class="star"><i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>  </span> 
+                     </div>
+                     <div class="row ">
+                        <div class="col-lg-4 col-lg-offset-8 float-right">
+                           <i class="fa fa-archive" aria-hidden="true"></i>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- end media -->
+               </div>
+               <div class="col-md-3 mobcard">
+                  <div class="card zoom">
+                     <img src="images/11.png" alt="" class="img-responsive img-rounded">
+                     <div class="container">
+                        <h4><b>We are going down</b></h4>
+                        <p class="mb-0">By chetan Bhagat</p>
+                        <b class="qar">QAR 10.19</b> <span class="star"><i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>  </span> 
+                     </div>
+                     <div class="row ">
+                        <div class="col-lg-4 col-lg-offset-8 float-right">
+                           <i class="fa fa-archive" aria-hidden="true"></i>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- end media -->
+               </div>
+               <div class="col-md-3 mobcard">
+                  <div class="card zoom">
+                     <img src="images/12.png" alt="" class="img-responsive img-rounded">
+                     <div class="container">
+                        <h4><b>We are going down</b></h4>
+                        <p class="mb-0">By chetan Bhagat</p>
+                        <b class="qar">QAR 10.19</b> <span class="star"><i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i></span> 
+                     </div>
+                     <div class="row ">
+                        <div class="col-lg-4 col-lg-offset-8 float-right">
+                           <i class="fa fa-archive" aria-hidden="true"></i>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- end media -->
+               </div>
+               <!-- end col -->
+            </div>
+            <!-- end row -->
+            <!-- end row -->
+         </div>
+         <!-- end container -->
+      </div>
+      <!-- end section -->
+      <div id="about" class="section wb pmedium ">
+         <div class="container">
+            <div class="row bokhead">
+               <div class="col-md-12  ">
+                  <h2 class="featured">Best author book</h2>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-md-3">
+                  <div class="card">
+                     <ul class="list-group">
+                        <li class="list-group-item active">Popular Books</li>
+                        <li class="list-group-item">Action</li>
+                        <li class="list-group-item">Adventures</li>
+                        <li class="list-group-item">Classic</li>
+                        <li class="list-group-item">Comic Book</li>
+                        <li class="list-group-item">Graphic novel</li>
+                        <li class="list-group-item"> Detective</li>
+                        <li class="list-group-item">Second item</li>
+                        <li class="list-group-item">My Story</li>
+                     </ul>
+                  </div>
+               </div>
+               <div class="col-md-3 mobcard">
+                  <div class="card zoom">
+                     <img src="images/10.png" alt="" class="img-responsive img-rounded">
+                     <div class="container">
+                        <h4><b>We are going down</b></h4>
+                        <p class="mb-0">By chetan Bhagat</p>
+                        <b class="qar">QAR 10.19</b> <span class="star"><i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>  </span> 
+                     </div>
+                     <div class="row ">
+                        <div class="col-lg-4 col-lg-offset-8 float-right">
+                           <i class="fa fa-archive" aria-hidden="true"></i>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- end media -->
+               </div>
+               <div class="col-md-3 mobcard">
+                  <div class="card zoom">
+                     <img src="images/11.png" alt="" class="img-responsive img-rounded">
+                     <div class="container">
+                        <h4><b>We are going down</b></h4>
+                        <p class="mb-0">By chetan Bhagat</p>
+                        <b class="qar">QAR 10.19</b> <span class="star"><i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>  </span> 
+                     </div>
+                     <div class="row ">
+                        <div class="col-lg-4 col-lg-offset-8 float-right">
+                           <i class="fa fa-archive" aria-hidden="true"></i>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- end media -->
+               </div>
+               <div class="col-md-3 mobcard">
+                  <div class="card zoom">
+                     <img src="images/12.png" alt="" class="img-responsive img-rounded">
+                     <div class="container">
+                        <h4><b>We are going down</b></h4>
+                        <p class="mb-0">By chetan Bhagat</p>
+                        <b class="qar">QAR 10.19</b> <span class="star"><i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i></span> 
+                     </div>
+                     <div class="row ">
+                        <div class="col-lg-4 col-lg-offset-8 float-right">
+                           <i class="fa fa-archive" aria-hidden="true"></i>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- end media -->
+               </div>
+               <!-- end col -->
+            </div>
+            <!-- end row -->
+            <!-- end row -->
+         </div>
+         <!-- end container -->
+      </div>
+      <div class="parallax section " data-stellar-background-ratio="0.7" style="background-image:url('images/backimg.png');">
+         <div class="container">
+            <div class="row bokhead">
+               <div class="col-md-3 ">
+                  <h3 class="featured">New release & preorder</h3>
+               </div>
+               <div class="col-md-9 ">
+                  <div class="row bokhead">
+                     <div class="col-md-2 textr ">
+                        <h3 class="hover">Bestsellers </h3>
+                     </div>
+                     <div class="col-md-2 textr">
+                        <h3 class="hover">Fiction</h3>
+                     </div>
+                     <div class="col-md-2 textr">
+                        <h3 class="hover"> SCI-Fi  </h3>
+                     </div>
+                     <div class="col-md-2 textr">
+                        <h3 class="hover"> Fantasy </h3>
+                     </div>
+                     <div class="col-md-2 textr">
+                        <h3 class="hover">Thriller</h3>
+                     </div>
+                     <div class="col-md-2 textr">
+                        <h3 class="hover"> View All </h3>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-md-3">
+                  <div class="card">
+                     <ul class="list-group">
+                        <li class="list-group-item active">Popular Books</li>
+                        <li class="list-group-item">Action</li>
+                        <li class="list-group-item">Adventures</li>
+                        <li class="list-group-item">Classic</li>
+                        <li class="list-group-item">Comic Book</li>
+                        <li class="list-group-item">Graphic novel</li>
+                        <li class="list-group-item"> Detective</li>
+                        <li class="list-group-item">Second item</li>
+                        <li class="list-group-item">My Story</li>
+                     </ul>
+                  </div>
+                  <!-- end media -->
+               </div>
+               <div class="col-md-3 mobcard">
+                  <div class="card zoom">
+                     <img src="images/8.png" alt="" class="img-responsive img-rounded">
+                     <div class="container">
+                        <h4><b>We are going down</b></h4>
+                        <p class="mb-0">By chetan Bhagat</p>
+                        <b class="qar">QAR 10.19</b> <span class="star"><i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i> </span> 
+                     </div>
+                     <div class="row ">
+                        <div class="col-lg-4 col-lg-offset-8 float-right">
+                           <i class="fa fa-archive" aria-hidden="true"></i>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- end media -->
+               </div>
+               <div class="col-md-3 mobcard">
+                  <div class="card zoom">
+                     <img src="images/8.png" alt="" class="img-responsive img-rounded">
+                     <div class="container">
+                        <h4><b>We are going down</b></h4>
+                        <p class="mb-0">By chetan Bhagat</p>
+                        <b class="qar">QAR 10.19</b> <span class="star"><i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i> </span> 
+                     </div>
+                     <div class="row ">
+                        <div class="col-lg-4 col-lg-offset-8 float-right">
+                           <i class="fa fa-archive" aria-hidden="true"></i>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- end media -->
+               </div>
+               <div class="col-md-3 mobcard">
+                  <div class="card zoom">
+                     <img src="images/8.png" alt="" class="img-responsive img-rounded">
+                     <div class="container">
+                        <h4><b>We are going down</b></h4>
+                        <p class="mb-0">By chetan Bhagat</p>
+                        <b class="qar">QAR 10.19</b> <span class="star"><i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i> </span> 
+                     </div>
+                     <div class="row ">
+                        <div class="col-lg-4 col-lg-offset-8 float-right">
+                           <i class="fa fa-archive" aria-hidden="true"></i>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- end media -->
+               </div>
+               <!-- end col -->
+            </div>
+         </div>
+         <!-- end container -->
+      </div>
+      <!-- end section -->
+      <section class="section lb ">
+         <div class="parallax section parallax-off pt cc-container" data-stellar-background-ratio="0.9" style="background-image:url('images/14.png');">
+            <div class="row">
+               <div class="col-lg-6">
+                  <h1 class="homepage-three-title">Grab now </h1>
+                  <h1 class="now">Great deals on books</h1>
+                  <div class="slider-content-btn"> <a class="button btn btn-light btn-radius btn-brd" href="#">Click Here</a> </div>
+               </div>
+               <!-- <div class="col-lg-6"> <img src="images/book.png" alt="" class="img-responsive book"> </div> -->
+            </div>
+         </div>
+      </section>
+      <section class="section lb ptop pzero">
+         <div class="container">
+            <div class="row">
+               <div class=" col-md-12  ">
+                  <h1 class="featured">Feaured Authors</h1>
+               </div>
+            </div>
+            <div class="row ">
+               <div class="col-md-12 authorr">
+                  <div class="carousel carousel-showmanymoveone slide" id="carousel123">
+                     <div class="carousel-inner">
+                        <div class="item active">
+                           <div class="col-xs-12 col-sm-6 col-md-3 ">
+                              <center> <img src="images/16.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="col-xs-12 col-sm-6 col-md-3">
+                              <center> <img src="images/17.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="col-xs-12 col-sm-6 col-md-3">
+                              <center> <img src="images/18.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="col-xs-12 col-sm-6 col-md-3">
+                              <center> <img src="images/19.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="col-xs-12 col-sm-6 col-md-3">
+                              <center> <img src="images/20.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="col-xs-12 col-sm-6 col-md-3">
+                              <center> <img src="images/16.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="col-xs-12 col-sm-6 col-md-3">
+                              <center> <img src="images/17.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="col-xs-12 col-sm-6 col-md-3">
+                              <center> <img src="images/18.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                     </div>
+                     <a class="left carousel-control" href="#carousel123" data-slide="prev"><i class="glyphicon glyphicon-chevron-left"></i></a>
+                     <a class="right carousel-control" href="#carousel123" data-slide="next"><i class="glyphicon glyphicon-chevron-right"></i></a>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- end section -->
+      <div id="about" class="section wb ">
+         <div class="container">
+            <div class="row bokhead">
+               <div class="col-md-3 ">
+                  <h3 class="featured"> Top Reviews </h3>
+               </div>
+               <div class="col-md-6">
+                  <h3 class="hover"> On Sales</h3>
+               </div>
+               <div class="col-md-3">
+                  <h3 class="hover">Top Rated</h3>
+               </div>
+            </div>
+            <div class="row mleft">
+               <div class="col-md-3 secpad">
+                  <div class="row">
+                     <div class="col-lg-5  col-md-5 col-xs-5 col-xs-7 col-4 border"> <img src="images/21.png" alt="" class="fbook"> </div>
+                     <div class="col-md-7  borderleft">
+                        <div class="card-body-right carttextt">
+                           <h4 class="card-title">John Doe</h4>
+                           <p class="card-text">Some example text </p>
+                           <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i>
+                           <p> <b>QAR 10.19</b></p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="row padcard">
+                     <div class="col-lg-5 col-md-5 col-xs-5 col-xs-7 col-xs-12  border"> <img src="images/22.png" alt="" class="fbook"> </div>
+                     <div class="col-md-7 borderleft">
+                        <div class="card-body-right">
+                           <h4 class="card-title">John Doe</h4>
+                           <p class="card-text">Some example text </p>
+                           <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i>
+                           <p> <b>QAR 10.19</b></p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="row padcard">
+                     <div class="col-lg-5 col-md-5 col-xs-5 col-xs-7 col-xs-12 border"> <img src="images/23.png" alt="" class="fbook"> </div>
+                     <div class="col-md-7 borderleft">
+                        <div class="card-body-right">
+                           <h4 class="card-title">John Doe</h4>
+                           <p class="card-text">Some example text </p>
+                           <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i>
+                           <p> <b>QAR 10.19</b></p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-md-3 topreview">
+                  <div class="row">
+                     <div class="col-md-5 col-lg-5 col-md-5 col-xs-5 col-xs-7 col-xs-12  border"> <img src="images/24.png" alt="" class="fbook"> </div>
+                     <div class="col-md-7 borderleft">
+                        <div class="card-body-right">
+                           <h4 class="card-title">John Doe</h4>
+                           <p class="card-text">Some example text </p>
+                           <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i>
+                           <p> <b>QAR 10.19</b></p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="row padcard">
+                     <div class="col-md-5 col-lg-5 col-md-5 col-xs-5 col-xs-7 col-xs-12  border"> <img src="images/25.png" alt="" class="fbook"> </div>
+                     <div class="col-md-7 borderleft">
+                        <div class="card-body-right">
+                           <h4 class="card-title">John Doe</h4>
+                           <p class="card-text">Some example text </p>
+                           <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i>
+                           <p> <b>QAR 10.19</b></p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="row padcard">
+                     <div class="col-lg-5 col-md-5 col-xs-5 col-xs-7 col-xs-12   border"> <img src="images/26.png" alt="" class="fbook"> </div>
+                     <div class="col-md-7 borderleft">
+                        <div class="card-body-right">
+                           <h4 class="card-title">John Doe</h4>
+                           <p class="card-text">Some example text </p>
+                           <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i>
+                           <p> <b>QAR 10.19</b></p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-md-3 topreview ">
+                  <div class="row">
+                     <div class="col-lg-5 col-md-5 col-xs-5 col-xs-7 col-xs-12  border"> <img src="images/27.png" alt="" class="fbook"> </div>
+                     <div class="col-md-7 borderleft">
+                        <div class="card-body-right">
+                           <h4 class="card-title">John Doe</h4>
+                           <p class="card-text">Some example text </p>
+                           <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i>
+                           <p> <b>QAR 10.19</b></p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="row padcard">
+                     <div class="col-lg-5 col-md-5 col-xs-5 col-xs-7 col-xs-12  border"> <img src="images/28.png" alt="" class="fbook"> </div>
+                     <div class="col-md-7 borderleft">
+                        <div class="card-body-right">
+                           <h4 class="card-title">John Doe</h4>
+                           <p class="card-text">Some example text </p>
+                           <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i>
+                           <p> <b>QAR 10.19</b></p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="row padcard">
+                     <div class="col-lg-5 col-md-5 col-xs-5 col-xs-7 col-xs-12  border"> <img src="images/29.png" alt="" class="fbook"> </div>
+                     <div class="col-md-7 borderleft">
+                        <div class="card-body-right">
+                           <h4 class="card-title">John Doe</h4>
+                           <p class="card-text">Some example text </p>
+                           <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i> <i class="fa fa-star" aria-hidden="true"></i>
+                           <p> <b>QAR 10.19</b></p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-md-3 topreview">
+                  <div class="row">
+                     <div class="col-md-12 "> <img src="images/30.png" alt="" class="bcard"> </div>
+                  </div>
+               </div>
+               <!-- end col -->
+            </div>
+            <!-- end row -->
+            <!-- end row -->
+         </div>
+         <!-- end container -->
+      </div>
+      <!-- end section -->
+      <section class="section lb ptop pzero">
+         <div class="container">
+            <div class="row">
+               <div class=" col-md-12 ">
+                  <h1>Feaured Publish</h1>
+               </div>
+            </div>
+            <div class="row ">
+               <div class="col-md-12">
+                  <div class="carousel carousel-showmanymoveone slide" id="carousel123">
+                     <div class="carousel-inner">
+                        <div class="item active">
+                           <div class="col-xs-12 col-sm-6 col-md-3 ">
+                              <center> <img src="images/31.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="col-xs-12 col-sm-6 col-md-3">
+                              <center> <img src="images/32.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="col-xs-12 col-sm-6 col-md-3">
+                              <center> <img src="images/33.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="col-xs-12 col-sm-6 col-md-3">
+                              <center> <img src="images/34.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="col-xs-12 col-sm-6 col-md-3">
+                              <center> <img src="images/35.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="col-xs-12 col-sm-6 col-md-3">
+                              <center> <img src="images/31.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="col-xs-12 col-sm-6 col-md-3">
+                              <center> <img src="images/32.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="col-xs-12 col-sm-6 col-md-3">
+                              <center> <img src="images/33.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                     </div>
+                     <a class="left carousel-control" href="#carousel123" data-slide="prev"><i class="glyphicon glyphicon-chevron-left"></i></a>
+                     <a class="right carousel-control" href="#carousel123" data-slide="next"><i class="glyphicon glyphicon-chevron-right"></i></a>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <section class="section lb ">
+         <div class="parallax section parallax-off pt cc-container" data-stellar-background-ratio="0.9" style="background-image:url('images/36.png');">
+            <div class="row">
+               <div class="col-lg-6">
+                  <h1 class="homepage-three-title">Up To 50% Off </h1>
+                  <h1 class="now">great deals on books</h1>
+                  <div class="slider-content-btn"> <a class="button btn btn-light btn-radius btn-brd" href="#">grab now </a> </div>
+               </div>
+               <!--  <div class="col-lg-6"> <img src="images/book.png" alt="" class="img-responsive book"> </div> -->
+            </div>
+         </div>
+      </section>
+      <!-- end section -->
+      <section class="section lb ptop ">
+         <div class="container">
+            <div class="row">
+               <div class=" col-md-12 ">
+                  <h1 class="featured">Feaured Series</h1>
+               </div>
+            </div>
+            <div class="row ">
+               <div class="col-md-12">
+                  <div class="carousel carousel-showmanymoveone slide" id="carousel123">
+                     <div class="carousel-inner">
+                        <div class="item active">
+                           <div class="col-xs-12 col-sm-6 col-md-3 ">
+                              <center> <img src="images/37.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="col-xs-12 col-sm-6 col-md-3">
+                              <center> <img src="images/38.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="col-xs-12 col-sm-6 col-md-3">
+                              <center> <img src="images/39.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="col-xs-12 col-sm-6 col-md-3">
+                              <center> <img src="images/40.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="col-xs-12 col-sm-6 col-md-3">
+                              <center> <img src="images/37.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="col-xs-12 col-sm-6 col-md-3">
+                              <center> <img src="images/38.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="col-xs-12 col-sm-6 col-md-3">
+                              <center> <img src="images/39.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="col-xs-12 col-sm-6 col-md-3">
+                              <center> <img src="images/40.png" alt="" class="harry"></center>
+                           </div>
+                        </div>
+                     </div>
+                     <a class="left carousel-control" href="#carousel123" data-slide="prev"><i class="glyphicon glyphicon-chevron-left"></i></a>
+                     <a class="right carousel-control" href="#carousel123" data-slide="next"><i class="glyphicon glyphicon-chevron-right"></i></a>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <section class="bg">
+         <div id="about" class=" ptop">
+            <div class="container">
+               <div class="row shiping">
+                  <div class="col-lg-3 col-md-12 col-sm-12 col-12 ">
+                     <div class="row ">
+                        <div class="col-lg-4 col-md-4 col-xs-5 col-xs-7 col-4"> <i class="fa fa-truck aicon" aria-hidden="true"></i> </div>
+                        <div class="col-md-8">
+                           <h3 class="twhite">Free Shipping</h3>
+                           <p class="twhite">World wide</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-3 mobcard">
+                     <div class="row ">
+                        <div class="col-lg-4 col-md-4 col-xs-5 col-xs-7 col-4 "> <i class="fa fa-headphones head" aria-hidden="true"></i> </div>
+                        <div class="col-md-8">
+                           <h3 class="twhite">47</h3>
+                           <p class="twhite">Cudtomer Support</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-3 mobcard">
+                     <div class="row ">
+                        <div class="col-lg-4 col-md-4 col-xs-5 col-xs-7 col-4 "> <i class="fa fa-retweet aicon" aria-hidden="true"></i> </div>
+                        <div class="col-md-8">
+                           <h3 class="twhite">Return </h3>
+                           <p class="twhite">Add Exchange </p>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-md-3 mobcard">
+                     <div class="row ">
+                        <div class="col-lg-4 col-md-4 col-xs-5 col-xs-7 col-4 "> <i class="fa fa-phone phone" aria-hidden="true"></i> </div>
+                        <div class="col-md-8">
+                           <h3 class="twhite">Helpline </h3>
+                           <p class="twhite"> (800)8001-8511</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!-- end container -->
+         </div>
+      </section>
+      <!-- end section -->
+      <footer class="footer ">
+         <div class="container">
+            <div class="parallax section noover footpading" data-stellar-background-ratio="0.7" style="background-image:url('images/backimg.png');">
+               <div class="container">
+                  <div class="row">
+                     <div class="col-md-6 col-sm-4 col-xs-12">
+                        <div class="widget clearfix">
+                           <div class="widget-title"> <img src="images/book stor logo.png" alt="" class="logo"/> </div>
+                           <p> Get Question? Call us 24/7!</p>
+                           <p><b>(800) 8001 8588 ,(0600) 874 548</b></p>
+                           <p><span class="color">Address</span> - New Al waab street doha , 12962 , Qatar </p>
+                           <i class="fa fa-twitter social" aria-hidden="true"></i>
+                           <i class="fa fa-instagram social" aria-hidden="true"></i>
+                           <i class="fa fa-facebook-official social" aria-hidden="true"></i>
+                           <i class="fa fa-linkedin-square social" aria-hidden="true"></i>
+                        </div>
+                        <!-- end clearfix -->
+                     </div>
+                     <!-- end col -->
+                     <div class="col-md-2 col-sm-4 col-xs-12">
+                        <div class="widget clearfix">
+                           <div class="widget-title">
+                              <h3>helps</h3>
+                           </div>
+                           <ul class="footer-links hov">
+                              <li><a href="#">Search <span class="icon icon-arrow-right2"></span></a></li>
+                              <li><a href="#">Help <span class="icon icon-arrow-right2"></span></a></li>
+                              <li><a href="#">Information <span class="icon icon-arrow-right2"></span></a></li>
+                              <li><a href="#">Privacy Policy <span class="icon icon-arrow-right2"></span></a></li>
+                              <li><a href="#">Shipping information <span class="icon icon-arrow-right2"></span></a></li>
+                           </ul>
+                           <!-- end links -->
+                        </div>
+                        <!-- end clearfix -->
+                     </div>
+                     <!-- end col -->
+                     <div class="col-md-2 col-sm-4 col-xs-12">
+                        <div class="widget clearfix">
+                           <div class="widget-title">
+                              <h3>Support</h3>
+                           </div>
+                           <ul class="footer-links hov">
+                              <li><a href="#">Contact <span class="icon icon-arrow-right2"></span></a></li>
+                              <li><a href="#">About <span class="icon icon-arrow-right2"></span></a></li>
+                              <li><a href="#">Careers <span class="icon icon-arrow-right2"></span></a></li>
+                              <li><a href="#">Refund & Returns <span class="icon icon-arrow-right2"></span></a></li>
+                              <li><a href="#">Deliveries <span class="icon icon-arrow-right2"></span></a></li>
+                           </ul>
+                           <!-- end links -->
+                        </div>
+                        <!-- end clearfix -->
+                     </div>
+                     <!-- end col -->
+                     <div class="col-md-2 col-sm-4 col-xs-12">
+                        <div class="widget clearfix">
+                           <div class="widget-title">
+                              <h3>Information</h3>
+                           </div>
+                           <ul class="footer-links hov">
+                              <li><a href="#">Search terms <span class="icon icon-arrow-right2"></span></a></li>
+                              <li><a href="#">Advance search <span class="icon icon-arrow-right2"></span></a></li>
+                              <li><a href="#">Helps & FAQS <span class="icon icon-arrow-right2"></span></a></li>
+                              <li><a href="#">Order & Returns <span class="icon icon-arrow-right2"></span></a></li>
+                              <li><a href="#">Store & Location<span class="icon icon-arrow-right2"></span></a></li>
+                           </ul>
+                           <!-- end links -->
+                        </div>
+                        <!-- end clearfix -->
+                     </div>
+                  </div>
+                  <!-- end row -->
+                  <div class="row">
+                     <div class="col-lg-12">
+                        <div class="copyrights">
+                           <div class="container">
+                              <div class="footer-distributed">
+                                 <div class="footer-left">
+                                    <div class="row">
+                                       <div class="col-lg-7 copy">
+                                          <p class="footer-company-name">All Rights Reserved. &copy; 2018 </p>
+                                       </div>
+                                       <div class="col-lg-5 copy">
+                                          <img src="images/payment.png" alt="" class="payment"/>
+                                       </div>
+                                    </div>
+                                    <!--  <p class="footer-company-name">All Rights Reserved. &copy; 2018 <a href="#">GoodWEB</a> Design By : <a href="https://html.design/">html design</a></p> -->
+                                 </div>
+                              </div>
+                           </div>
+                           <!-- end container -->
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <!-- end container -->
+            </div>
+            <!-- end row -->
+         </div>
+         <!-- end container -->
+      </footer>
+      <!-- end footer -->
+      <!-- end copyrights --><a href="#" id="scroll-to-top" class="dmtop global-radius"><i class="fa fa-angle-up"></i></a>
+      <!-- ALL JS FILES -->
+      <script src="js/all.js"></script>
+      <!-- ALL PLUGINS -->
+      <script src="js/custom.js"></script>
+      <script src="js/portfolio.js"></script>
+      <script src="js/hoverdir.js"></script>
+      <script>
+         (function(){
+         // setup your carousels as you normally would using JS
+         // or via data attributes according to the documentation
+         // https://getbootstrap.com/javascript/#carousel
+         $('#carousel123').carousel({ interval: 2000 });
+         $('#carouselABC').carousel({ interval: 3600 });
+         }());
+         
+         (function(){
+         $('.carousel-showmanymoveone .item').each(function(){
+           var itemToClone = $(this);
+         
+           for (var i=1;i<4;i++) {
+             itemToClone = itemToClone.next();
+         
+             // wrap around if at end of item collection
+             if (!itemToClone.length) {
+               itemToClone = $(this).siblings(':first');
+             }
+         
+             // grab item, clone, add marker class, add to collection
+             itemToClone.children(':first-child').clone()
+               .addClass("cloneditem-"+(i))
+               .appendTo($(this));
+           }
+         });
+         }());
+           
+      </script>
+      <script>
+         const viewBtn = document.querySelector(".view-modal"),
+         popup = document.querySelector(".popup"),
+         close = popup.querySelector(".close"),
+         field = popup.querySelector(".field"),
+         input = field.querySelector("input"),
+         copy = field.querySelector("button");
+         
+         viewBtn.onclick = ()=>{
+         popup.classList.toggle("show");
+         }
+         close.onclick = ()=>{
+         viewBtn.click();
+         }
+         
+         copy.onclick = ()=>{
+         input.select(); //select input value
+         if(document.execCommand("copy")){ //if the selected text copy
+         field.classList.add("active");
+         copy.innerText = "Copied";
+         setTimeout(()=>{
+         window.getSelection().removeAllRanges(); //remove selection from document
+         field.classList.remove("active");
+         copy.innerText = "Copy";
+         }, 3000);
+         }
+         }
+      </script>
+      <!-- dropdown lohin -->
+      <script>
+         function myFunction() {
+           document.getElementById("myDropdown").classList.toggle("show");
+         }
+         
+         function filterFunction() {
+           var input, filter, ul, li, a, i;
+           input = document.getElementById("myInput");
+           filter = input.value.toUpperCase();
+           div = document.getElementById("myDropdown");
+           a = div.getElementsByTagName("a");
+           for (i = 0; i < a.length; i++) {
+             txtValue = a[i].textContent || a[i].innerText;
+             if (txtValue.toUpperCase().indexOf(filter) > -1) {
+               a[i].style.display = "";
+             } else {
+               a[i].style.display = "none";
+             }
+           }
+         }
+      </script>
+      <!-- searchhhhh -->
+      <script>
+         function myFunction1() {
+           document.getElementById("myDropdown1").classList.toggle("show");
+         }
+         
+         function filterFunction() {
+           var input, filter, ul, li, a, i;
+           input = document.getElementById("myInput");
+           filter = input.value.toUpperCase();
+           div = document.getElementById("myDropdown");
+           a = div.getElementsByTagName("a");
+           for (i = 0; i < a.length; i++) {
+             txtValue = a[i].textContent || a[i].innerText;
+             if (txtValue.toUpperCase().indexOf(filter) > -1) {
+               a[i].style.display = "";
+             } else {
+               a[i].style.display = "none";
+             }
+           }
+         }
+      </script> 
+      <!--  -->
+   </body>
+</html>

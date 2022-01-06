@@ -1,0 +1,1406 @@
+msgid "English"
+msgstr "أرابيك"
+
+msgid "Book Store"
+msgstr "مكتبة لبيع الكتب"
+
+msgid "Featured Books"
+msgstr "كتب مميزة"
+
+msgid "Top Rated"
+msgstr "أعلى التقييمات"
+
+msgid "View All"
+msgstr "مشاهدة الكل"
+
+msgid "Popular Books Genres"
+msgstr "أنواع الكتب الشعبية"
+
+msgid "Best Author Book"
+msgstr "أفضل كتاب مؤلف"
+
+msgid "View All"
+msgstr "مشاهدة الكل"
+
+msgid "Authors Name"
+msgstr "اسم المؤلف"
+
+msgid "New Release & Preorder"
+msgstr "الإصدار الجديد والطلب المسبق"
+
+msgid "Authors"
+msgstr "المؤلفون"
+
+msgid "Publisher"
+msgstr "الناشر"
+
+msgid "Series"
+msgstr "سلسلة"
+
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+msgid "Register"
+msgstr "يسجل"
+
+msgid "Total"
+msgstr "مجموع"
+
+msgid "View Cart"
+msgstr "عرض عربة التسوق"
+
+msgid "Checkout"
+msgstr "الدفع"
+
+msgid "Cart is empty"
+msgstr "السلة فارغة"
+
+msgid "Shop Now"
+msgstr "تسوق الآن"
+
+msgid "All Categories"
+msgstr "جميع الفئات"
+
+msgid "Toggle navigation"
+msgstr "تبديل التنقل"
+
+msgid "Home"
+msgstr "الصفحة الرئيسية"
+
+msgid "Category"
+msgstr "فئة"
+
+msgid "About"
+msgstr "حول"
+
+msgid "Profile"
+msgstr "حساب تعريفي"
+
+msgid "Logout"
+msgstr "تسجيل خروج"
+
+msgid "Free Shipping"
+msgstr "Free Shipping"
+
+msgid "Worldwide"
+msgstr "في جميع أنحاء العالم"
+
+msgid "Customer Support"
+msgstr "دعم العملاء"
+
+msgid "Return"
+msgstr "إرجاع"
+
+msgid "And Exchange"
+msgstr "والصرف"
+
+msgid "Helpline"
+msgstr "خط المساعدة"
+
+msgid "Get Question? Call us"
+msgstr "احصل على سؤال؟ اتصل بنا"
+
+msgid "helps"
+msgstr "يساعد"
+
+msgid "FAQ"
+msgstr "التعليمات"
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+msgid "Terms & Condition"
+msgstr "الشروط والأحكام"
+
+msgid "Contact"
+msgstr "اتصال"
+
+msgid "About"
+msgstr "حول"
+
+msgid "Support"
+msgstr "يدعم"
+
+msgid "Refund Policy"
+msgstr "سياسة الاسترجاع"
+
+msgid "Order & Returns Policy"
+msgstr "سياسة الطلبات والإرجاع"
+
+msgid "Tursbooks"
+msgstr "Tursbooks"
+
+msgid "All Rights Reserved"
+msgstr "كل الحقوق محفوظة"
+
+msgid "About Us"
+msgstr "معلومات عنا"
+
+msgid "Authors"
+msgstr "المؤلفون"
+
+msgid "Authors"
+msgstr "المؤلفون"
+
+msgid "Product details"
+msgstr "تفاصيل المنتج"
+
+msgid "By"
+msgstr "بواسطة"
+
+msgid "Author"
+msgstr "مؤلف"
+
+msgid "Buy Now"
+msgstr "اشتري الآن"
+
+msgid "SHARE THIS PRODUCT"
+msgstr "شارك هذا المنتج"
+
+msgid "SERVICES"
+msgstr "خدمات"
+
+msgid "Days Replacement"
+msgstr "استبدال أيام"
+
+msgid "free home delivery"
+msgstr "توصيل مجاني للمنزل"
+
+msgid "no contact delivery"
+msgstr "لا تسليم جهة اتصال"
+
+msgid "Book Details"
+msgstr "تفاصيل الكتاب"
+
+msgid "Book Specifications"
+msgstr "مواصفات الكتاب"
+
+msgid "Language"
+msgstr "لغة"
+
+msgid "Publishing Date"
+msgstr "تاريخ النشر"
+
+msgid "Publisher"
+msgstr "الناشر"
+
+msgid "Edition"
+msgstr "الإصدار"
+
+msgid "Total Pages"
+msgstr "إجمالي الصفحات"
+
+msgid "ISBN"
+msgstr "رقم"
+
+msgid "Reviews & Ratings"
+msgstr "التقييمات والتقييمات"
+
+msgid "Revews"
+msgstr "يعيد"
+
+msgid "write a review"
+msgstr "أكتب مراجعة"
+
+msgid "Customer Reviews"
+msgstr "آراء المستهلكين"
+
+msgid "Similar Books"
+msgstr "كتب مماثلة"
+
+msgid "from the author"
+msgstr "من المؤلف"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Previous"
+msgstr "سابق"
+
+msgid "Books"
+msgstr "كتب"
+
+msgid "Remove product"
+msgstr "إزالة المنتج"
+
+msgid "Checkout"
+msgstr "الدفع"
+
+msgid "Total"
+msgstr "مجموع"
+
+msgid "Cart is empty"
+msgstr "السلة فارغة"
+
+msgid "Shop Now"
+msgstr "تسوق الآن"
+
+msgid "Category"
+msgstr "فئة"
+
+msgid "Contact Us"
+msgstr "Contact Us"
+
+msgid "Contact Information"
+msgstr "Contact Information"
+
+msgid "Name"
+msgstr "اسم"
+
+msgid "Email"
+msgstr "بريد إلكتروني"
+
+msgid "Phone Number"
+msgstr "رقم التليفون"
+
+msgid "Give us more details"
+msgstr "قدم لنا المزيد من التفاصيل"
+
+msgid "Submit"
+msgstr "يقدم"
+
+msgid "FAQ"
+msgstr "التعليمات"
+
+msgid "Sign In"
+msgstr "Sign In"
+
+msgid "Enter Email"
+msgstr "أدخل البريد الإلكتروني"
+
+msgid "Enter Password"
+msgstr "أدخل كلمة المرور"
+
+msgid "Sign In"
+msgstr "تسجيل الدخول"
+
+msgid "Order & Returns Policy"
+msgstr "سياسة الطلبات والإرجاع"
+
+msgid "Privacy Policy"
+msgstr "سياسة الخصوصية"
+
+msgid "Profile"
+msgstr "حساب تعريفي"
+
+msgid "Enter Your Name"
+msgstr "أدخل أسمك"
+
+msgid "Enter Your Email"
+msgstr "أدخل بريدك الإلكتروني"
+
+msgid "Enter Your Password"
+msgstr "ادخل رقمك السري"
+
+msgid "Contact Number"
+msgstr "رقم الاتصال"
+
+msgid "Update Profile"
+msgstr "تحديث الملف"
+
+msgid "Refund Policy"
+msgstr "سياسة الاسترجاع"
+
+msgid "Sign Up"
+msgstr "اشتراك"
+
+msgid "Terms & Condition"
+msgstr "الشروط والأحكام"
+
+msgid "Free Shipping"
+msgstr "الشحن مجانا"
+
+msgid "Information"
+msgstr "معلومة"
+
+msgid "Helps"
+msgstr "يساعد"
+
+msgid "OPTIONS"
+msgstr "والخيارات"
+
+msgid "Coupons"
+msgstr "كوبونات"
+
+msgid "Apply"
+msgstr "تطبيق"
+
+msgid "Price Details"
+msgstr "تفاصيل السعر"
+
+msgid "Delivery Charges"
+msgstr "رسوم التوصيل"
+
+msgid "Free"
+msgstr "حر"
+
+msgid "Place Order"
+msgstr "مكان الامر"
+
+msgid "Remove"
+msgstr "إزالة"
+
+msgid "Tursbooks"
+msgstr "Tursbooks"
+
+msgid "Book details"
+msgstr "تفاصيل الكتاب"
+
+msgid "Add to Cart"
+msgstr "أضف إلى السلة"
+
+msgid "Free Home Delivery"
+msgstr "توصيل مجاني للمنزل"
+
+msgid "No Contact Delivery"
+msgstr "لا تسليم جهة اتصال"
+
+msgid "No Revews"
+msgstr "لم يتم تقديم تعليقات"
+
+msgid "Write a Review"
+msgstr "أكتب مراجعة"
+
+msgid "Contact Us"
+msgstr "اتصل بنا"
+
+msgid "Contact Information"
+msgstr "معلومات الاتصال"
+
+msgid "Phone"
+msgstr "هاتف"
+
+msgid "Book"
+msgstr "كتاب"
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""
+
+msgid "HeadingInEnglish"
+msgstr ""

@@ -1,0 +1,1203 @@
+msgid "English"
+msgstr "العربية"
+
+msgid "Book Store"
+msgstr "المكتبة"
+
+msgid "Featured Books"
+msgstr "كتب مميزة"
+
+msgid "Top Rated"
+msgstr "الأعلى تقييماً"
+
+msgid "View All"
+msgstr "عرض الكل "
+
+msgid "Popular Books Genres"
+msgstr "كتب مشهورة"
+
+msgid "Authors Name"
+msgstr "اسم المؤلف"
+
+msgid "New Release & Preorder"
+msgstr "أضيف حديثاً"
+
+msgid "Authors"
+msgstr "المؤلفون"
+
+msgid "Publisher"
+msgstr "الناشرون"
+
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+msgid "Register"
+msgstr "تسجل"
+
+msgid "Total"
+msgstr "المجموع"
+
+msgid "View Cart"
+msgstr "سلة المشتريات"
+
+msgid "Checkout"
+msgstr "الدفع"
+
+msgid "Cart is empty"
+msgstr "السلة فارغة"
+
+msgid "Shop Now"
+msgstr "تسوق الآن"
+
+msgid "All Categories"
+msgstr "جميع الأقسام"
+
+msgid "Home"
+msgstr "الصفحة الرئيسية"
+
+msgid "Category"
+msgstr الأقسام‫"‬"
+
+msgid "About"
+msgstr "من نحن"
+
+msgid "Profile"
+msgstr "الحساب التعريفي"
+
+msgid "Logout"
+msgstr "تسجيل الخروج"
+
+msgid "Free Shipping"
+msgstr "Free Shipping"
+
+msgid "Worldwide"
+msgstr "توصيل لجميع المناطق"
+
+msgid "Customer Support"
+msgstr "دعم العملاء"
+
+msgid "Return"
+msgstr "جميع خيارات الدفع مقبولة" 
+
+msgid "And Exchange"
+msgstr "والاستبدال"
+
+
+msgid "Get Question? Call us"
+msgstr "لمزيد من الاسئلة؟ اتصل بنا"
+
+
+msgid "Terms & Condition"
+msgstr "سياسة الاستخدام والخصوصية"
+
+msgid "Privacy Policy"
+msgstr "سياسة الاستخدام والخصوصية"
+
+msgid "Refund & Returns Policy"
+msgstr "سياسة الاستبدال والاسترجاع"
+
+msgid "FAQ"
+msgstr "الاسئلة الشائعة"
+
+msgid "helps"
+msgstr "الأحكام العامة"
+
+msgid "Contact"
+msgstr اتصل بنا‫"‬"
+
+msgid "About us"
+msgstr "من نحن"
+
+msgid "Support"
+msgstr "للمساعدة"
+
+msgid "All Rights Reserved"
+msgstr "كل الحقوق محفوظة"
+
+msgid "About Us"
+msgstr "من نحن"
+
+msgid "Authors"
+msgstr "المؤلفون"
+
+msgid "Product details"
+msgstr ‫"‬تفاصيل المنتج‫"‬   
+
+msgid "By"
+msgstr "بواسطة"
+
+msgid "Author"
+msgstr "المؤلف"
+
+msgid "Buy Now"
+msgstr "اشتر الآن"
+
+msgid "SHARE THIS PRODUCT"
+msgstr "شارك هذا المنتج"
+
+msgid "SERVICES"
+msgstr "الخدمات"
+
+msgid "free home delivery"
+msgstr "توصيل مجاني للمنزل"
+
+msgid "no contact delivery"
+msgstr "لا تسليم جهة اتصال"
+
+msgid "Book Details"
+msgstr "تفاصيل الكتاب"
+
+msgid "Book Specifications"
+msgstr "مواصفات الكتاب"
+
+msgid "Language"
+msgstr "لغة"
+
+msgid "Publishing Date"
+msgstr "تاريخ النشر"
+
+msgid "Publisher"
+msgstr "الناشرون"
+
+msgid "Edition"
+msgstr "الإصدار"
+
+msgid "Total Pages"
+msgstr "إجمالي الصفحات"
+
+msgid "ISBN"
+msgstr "رقم"
+
+msgid "Reviews & Ratings"
+msgstr "التقييمات والتقييمات"
+
+msgid "Revews"
+msgstr "إعادة العرض"
+
+msgid "write a review"
+msgstr "شاركنا رأيك"
+
+msgid "Customer Reviews"
+msgstr "آراءالعملاء"
+
+msgid "Similar Books"
+msgstr "كتب مماثلة"
+
+msgid "from the author"
+msgstr "من المؤلف"
+
+msgid "Next"
+msgstr "التالي"
+
+msgid "Previous"
+msgstr "السابق"
+
+msgid "Books"
+msgstr "الكتب"
+
+msgid "Remove product"
+msgstr "إزالة المنتج"
+
+msgid "Checkout"
+msgstr "الدفع"
+
+msgid "Total"
+msgstr "المجموع"
+
+msgid "Cart is empty"
+msgstr "السلة فارغة"
+
+msgid "Shop Now"
+msgstr "تسوق الآن"
+
+msgid "Category"
+msgstr "الأقسام"
+
+msgid "Contact Us"
+msgstr "اتصل بنا"
+
+msgid "Contact Information"
+msgstr "معلومات التواصل"
+
+msgid "Name"
+msgstr "اسم"
+
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+msgid "Phone Number"
+msgstr "رقم الجوال"
+
+msgid "Give us more details"
+msgstr "قدم لنا المزيد من التفاصيل"
+
+msgid "Submit"
+msgstr "تأكيد"
+
+msgid "FAQ"
+msgstr "الاسئلة الشائعة"
+
+msgid "Sign In"
+msgstr "تسجيل الدخول"
+
+msgid "Enter Email"
+msgstr "أدخل البريد الإلكتروني"
+
+msgid "Enter Password"
+msgstr "أدخل كلمة المرور"
+
+msgid "Sign In"
+msgstr "تسجيل الدخول"
+
+msgid "Order & Returns Policy"
+msgstr "سياسة الطلبات والإرجاع"
+
+msgid "Privacy Policy"
+msgstr "سياسة الخصوصية"
+
+msgid "Profile"
+msgstr "الحساب التعريفي"
+
+msgid "Enter Your Name"
+msgstr "أدخل أسمك"
+
+msgid "Enter Your Email"
+msgstr "أدخل بريدك الإلكتروني"
+
+msgid "Enter Your Password"
+msgstr "ادخل رقمك السري"
+
+msgid "Contact Number"
+msgstr "رقم الاتصال"
+
+msgid "Update Profile"
+msgstr "تحديث الملف"
+
+msgid "Refund Policy"
+msgstr "سياسة الاستبدال والاسترجاع"
+
+msgid "Sign Up"
+msgstr "تسجيل جديد"
+
+msgid "Terms & Condition"
+msgstr "سياسة الاستخدام والخصوصية"
+
+msgid "Free Shipping"
+msgstr "الشحن مجانا"
+
+msgid "Information"
+msgstr "تابعنا"
+
+msgid "Helps"
+msgstr "الأحكام العامة"
+
+msgid "OPTIONS"
+msgstr "الخيارات"
+
+msgid "Coupons"
+msgstr "كوبونات"
+
+msgid "Apply"
+msgstr "تقديم"
+
+msgid "Price Details"
+msgstr "تفاصيل السعر"
+
+msgid "Delivery Charges"
+msgstr "رسوم التوصيل"
+
+
+msgid "Place Order"
+msgstr "التقدم بطلب"
+
+msgid "Remove"
+msgstr "إزالة"
+
+msgid "Tursbooks"
+msgstr "مكتبة ترس الاسلامية والثقافية "
+
+msgid "Book details"
+msgstr "تفاصيل الكتاب"
+
+msgid "Add to Cart"
+msgstr "أضف إلى السلة"
+
+msgid "Free Home Delivery"
+msgstr "توصيل مجاني للمنزل"
+
+msgid "No Reviews"
+msgstr "ليس هناك تعليقات"
+
+msgid "Write a Review"
+msgstr "شاركنا رأيك"
+
+msgid "Contact Us"
+msgstr "اتصل بنا"
+
+msgid "Contact Information"
+msgstr "معلومات الاتصال"
+
+msgid "Phone"
+msgstr "هاتف"
+
+msgid "Book"
+msgstr "كتاب"
+
+msgid "About Us"
+msgstr "من نحن"
+
+msgid "Home"
+msgstr "الصفحة الرئيسية"
+
+msgid "Submit"
+msgstr "تقديم"
+
+msgid "Cancel"
+msgstr "الغاء"
+
+msgid "Advertisement"
+msgstr "اعلانات"
+
+msgid "Create Advertisement"
+msgstr "انشاء اعلان"
+
+msgid "Back"
+msgstr "الرجوع"
+
+msgid "Advertisement title"
+msgstr " عنوان الاعلان"
+
+msgid "Advertisement Status"
+msgstr " حالة الاعلان"
+
+msgid "Advertisement Image"
+msgstr "صورة الاعلان"
+
+msgid "Start Date"
+msgstr تاريخ البدء‫"‬"
+
+msgid "End Date"
+msgstr "تاريخ الانتهاء"
+
+msgid "Advertisement Description"
+msgstr "شرح الاعلان"
+
+msgid "Advertisement View"
+msgstr "مشاهدة الاعلان"
+
+msgid "Advertisement Update"
+msgstr " تحديث الاعلان"
+
+msgid "Max upload size is 3MB"
+msgstr "السعة القصوى هي 3ميغا"
+
+msgid "Edit"
+msgstr " تعديل"
+
+msgid "Add New"
+msgstr " اضافة جديدة"
+
+msgid "S.No."
+msgstr " رقم اس. "
+
+msgid "Image"
+msgstr " صورة"
+
+msgid "Advertisement Date"
+msgstr "تاريخ الاعلان"
+
+msgid "Status"
+msgstr " الحالة"
+
+msgid "Action"
+msgstr "الفعل"
+
+msgid "Authors"
+msgstr "المؤلفون"
+
+msgid "Create Author"
+msgstr " انشاء مؤلف"
+
+msgid "Name (English)"
+msgstr " الاسم"
+
+msgid "Name (Arabic)"
+msgstr " الاسم بالعربية"
+
+msgid "Author Image"
+msgstr " صورة الكاتب"
+
+
+msgid "View Author"
+msgstr " مشاهدة الكتاب"
+
+msgid "Name"	
+msgstr "الاسم"
+
+msgid "Name (Arabic)"
+msgstr "الاسم بالعربية"
+
+msgid "Author Image"
+msgstr " صورة الكاتب"
+
+msgid "Update Author"
+msgstr " تحديث الكاتب "
+
+msgid "Logo"
+msgstr " اللوغو"
+
+msgid "Book"
+msgstr " كتاب"
+
+msgid "Create Book"
+msgstr " انشاء كتاب"
+
+msgid "Book Name (English)"
+msgstr "اسم الكتاب"
+
+msgid "Book Name (Arabic)')"
+msgstr " اسم الكتاب بالعربية"
+
+msgid "Book Status"
+msgstr " حالة الكتاب"
+
+msgid "Publish Date"
+msgstr " تاريخ النشر"
+
+msgid "Publisher"
+msgstr "الناشرون"
+
+msgid "Language"
+msgstr " اللغة"
+
+msgid "Edition"
+msgstr " النسخة"
+
+msgid "ISBN"
+msgstr "اي اس بي ان"
+
+msgid "Number of Pages"
+msgstr " عدد الصفحات"
+
+msgid "Author"
+msgstr " الكاتب"
+
+msgid "Discount Status"
+msgstr " حالة التخفيض "
+
+msgid "Discount"
+msgstr " تخفيض"
+
+msgid "Book Price"
+msgstr " سعر الكتاب "
+
+msgid "Book Thumbnail Image"
+msgstr "صورة الكتاب"
+
+msgid "Book More Image"
+msgstr " صور اكثر للكتاب"
+
+msgid "Parent Category"
+msgstr " العائلية"
+
+msgid "Book Sort Description (English)"
+msgstr " شرح تفاصيل الكتاب"
+
+msgid "Book Sort Description (Arabic)"
+msgstr " شرح التفاصيل بالعربية"
+
+msgid "Book Description (English)"
+msgstr " تفاصيل الكتاب بالانكليزية"
+
+msgid "Book Description (Arabic)"
+msgstr " شرح الكتاب"
+
+msgid "Update Book"
+msgstr " تحديث الكتاب"
+
+msgid "Book View"
+msgstr " مشاهدة الكتاب"
+
+msgid "Category"
+msgstr "الأقسام"
+
+msgid "Create Category"
+msgstr "انشاء قسم"
+
+msgid "Category Name (English)"
+msgstr "اسم القسم"
+
+msgid "Category Name (Arabic)"
+msgstr "اسم القسم بالعربية"
+
+msgid "Category Status"
+msgstr " حالةالقسم"
+
+msgid "Parent Category"
+msgstr " عائلةالقسم"
+
+msgid "Category Image"
+msgstr " صورةالقسم "
+
+msgid "Update"
+msgstr " تحديث"
+
+msgid "Category View"
+msgstr عرض جميع الاقسام‫"‬"
+
+msgid "Category Update"
+msgstr " تحديث الأقسام"
+
+msgid "Parent Category/Segment"
+msgstr " القسم"
+
+msgid "Sub Category/Segment"
+msgstr "القسم الداخلي"
+
+msgid "Change Category"
+msgstr " تغييرالأقسام"
+
+msgid "City"
+msgstr " المدينة"
+
+msgid "Create City "
+msgstr " انشاء مدينة"
+
+msgid "State"
+msgstr " ال"
+
+msgid "Country"
+msgstr "البلد"
+
+msgid "City Status"
+msgstr " حالة المدينة"
+
+msgid "City Name"
+msgstr " اسم المدينة"
+
+msgid "View City"
+msgstr "مشاهدة المدينة"
+
+msgid "Update City"
+msgstr "تحديث المدينة"
+
+msgid "FILTER"
+msgstr "انتقاء"
+
+msgid "State Name"
+msgstr " اسم الولاية"
+
+msgid "Country Name"
+msgstr " اسم البلد"
+
+msgid "Subject"
+msgstr "الموضوع"
+
+msgid "Message"
+msgstr " رسالة"
+
+msgid "Contact"
+msgstr "اتصل بنا"
+
+msgid "Country Status"
+msgstr "حالة البلد"
+
+msgid "Country Name"
+msgstr "اسم البلد"
+
+msgid "Create Country"
+msgstr " انشاء بلد"
+
+msgid "Country"
+msgstr "البلد"
+
+msgid "View Country"
+msgstr "مشاهدة البلد"
+
+msgid "Update Country"
+msgstr " تحديث البلد"
+
+msgid "Customer Image"
+msgstr "صورة العميل"
+
+msgid "Create Customer"
+msgstr "انشاء عميل"
+
+msgid "Customer"
+msgstr "العميل"
+
+msgid "View Customer"
+msgstr " مشاهدة العميل"
+
+msgid "Update Customer"
+msgstr " تحديث العميل"
+
+msgid "Image"
+msgstr " الصورة"
+
+msgid "Save"
+msgstr " حفظ"
+
+msgid "Discount End Date"
+msgstr "انتهاء التخفيض"
+
+msgid "Discount Start Date"
+msgstr "بدأ التخفيض "
+
+msgid "Discount Amount"
+msgstr " قيمة التخفيض"
+
+msgid "Discount Type"
+msgstr " شكل التخفيض"
+
+msgid "Discount Name"
+msgstr "اسم التخفيض"
+
+msgid "Create Discount"
+msgstr "انشاء تخفيض"
+
+msgid "Discount"
+msgstr " تخفيض"
+
+msgid "View Discount"
+msgstr "مشاهدة التخفيض"
+
+msgid "Update Discount"
+msgstr "تحديث التخفيض "
+
+msgid "Discount Date"
+msgstr "تاريخ التخفيض"
+
+msgid "fAQ"
+msgstr "الاسئلة الشائعة"
+
+msgid "FAQ"
+msgstr "الاسئلة الشائعة"
+
+msgid "Create FAQ"
+msgstr "انشاء اف كيو اي"
+
+msgid "Title (English)"
+msgstr "العنوان بالانكيلزية"
+
+msgid "Title (Arabic)"
+msgstr "العنوان بالعربية"
+
+msgid "Status"
+msgstr "الحالة"
+
+msgid "Description (English)"
+msgstr "شرح بالنكليزية"
+
+msgid "Description (Arabic)"
+msgstr "شرح بالعربية"
+
+msgid "View FAQ"
+msgstr "مشاهدة "
+
+msgid "Update FAQ"
+msgstr "تحديث "
+
+msgid "Master Admin"
+msgstr مشرف رئيسي
+
+msgid "Create Master Admin"
+msgstr "انشاء مشرف رئيسي"
+
+msgid "First Name"
+msgstr "الاسم الاول"
+
+msgid "Last Name"
+msgstr "الاسم الاخير"
+
+msgid "Role"
+msgstr " الصفة"
+
+msgid "Username"
+msgstr "اسم الدخول"
+
+msgid "Password"
+msgstr "كلمة السر"
+
+msgid "Confirm Password"
+msgstr "تاكيد كلمة السر"
+
+msgid "Date of Birth"
+msgstr "تاريخ الولادة"
+
+msgid "State"
+msgstr "الولاية"
+
+msgid "Postal Code"
+msgstr "البريد"
+
+msgid "City"
+msgstr "المدينة"
+
+msgid "Address"
+msgstr "العنوان"
+
+msgid "Profile Image"
+msgstr "صورة"
+
+msgid "View Master Admin"
+msgstr "مشاهدة المشرف الرئيسي"
+
+msgid "Date of Birth"
+msgstr "تاريخ الميلاد"
+
+msgid "Confirm Password"
+msgstr "تاكيد كلمة السر"
+
+msgid "Update Master Admin"
+msgstr "تحديث المشرف الرئيسي"
+
+msgid "Notification"
+msgstr "الاشعارات"
+
+msgid "Create Notification"
+msgstr "انشاء الاشعارات"
+
+msgid "Notification Title"
+msgstr "عنوان الاشعارات"
+
+msgid "Notification Status"
+msgstr "حالة الاشعارات"
+
+msgid "Notification Send To"
+msgstr "ارسال الاشعارات"
+
+msgid "Notification Description"
+msgstr ""
+
+msgid "View Notification"
+msgstr ""
+
+msgid "Notification Update"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Book"
+msgstr "كتاب"
+
+msgid "Create Book"
+msgstr "إضافة كتاب"
+
+msgid "Book Name (English)"
+msgstr "اسم الكتاب بالانكليزية"
+
+msgid "Book Name (Arabic)"
+msgstr "اسم الكتاب بالعربية"
+
+msgid "Book Status"
+msgstr "حالة الكتاب"
+
+msgid "Author"
+msgstr "الكاتب"
+
+msgid "Discount Status"
+msgstr "حالة الخصم"
+
+msgid "Discount"
+msgstr " الخصم "
+
+msgid "Book Price"
+msgstr " سعر الكتاب"
+
+msgid "Book Thumbnail Image"
+msgstr "صورة قسم الكتاب"
+
+msgid "Book More Image"
+msgstr "صورة الكتاب "
+
+msgid "Book Description (English)"
+msgstr "شرح الكتاب"
+
+msgid "Book Description (Arabic)"
+msgstr " شرح الكتاب بالعربية"
+
+msgid "Update Book"
+msgstr " تحديث الكتاب"
+
+msgid "Order"
+msgstr " طلب"
+
+msgid "View Order"
+msgstr "عرض الطلب "
+
+msgid "Order Name (English)"
+msgstr " اسم الطلب"
+
+msgid "Order Name (Arabic)"
+msgstr "اسم الطلب"
+
+msgid "Order Status"
+msgstr "حالة الطلب"
+
+msgid "Order Price"
+msgstr " سعر الطلب"
+
+msgid "Order Thumbnail Image"
+msgstr "صورة الطلب"
+
+msgid "Order More Image"
+msgstr "صور اكثر للطلب"
+
+msgid "Order Description (English)"
+msgstr "تفاصيل الطاب"
+
+msgid "Order Description (Arabic)"
+msgstr ""
+
+msgid "(Select multiple images)"
+msgstr "اختيار متعدد للصور"
+
+msgid "Order Date"
+msgstr "تاريخ الطلب"
+
+msgid "Order Number"
+msgstr "رقم الطلب"
+
+msgid "Customer Name"
+msgstr "اسم العميل"
+
+msgid "Customer Email"
+msgstr "البريد الاكتروني للعميل"
+
+msgid "Customer Phone No."
+msgstr "رقم هاتف العميل"
+
+msgid "Order Amount"
+msgstr "اجمالي الطلب"
+
+msgid "Order Return Policy"
+msgstr "سياسة ارجاع الطلب"
+
+msgid "Order Return Policy Description (English)"
+msgstr "تفاصيل سياسة ارجاع الطلب"
+
+msgid "Order Return Policy Description (Arabic)"
+msgstr ""
+
+msgid "Privacy Policy"
+msgstr "سياسة الخصوصية"
+
+msgid "Privacy Policy Description (English)"
+msgstr "شرح سيلسة الخصوصية"
+
+msgid "Privacy Policy Description (Arabic)"
+msgstr " شرح سياسة الخصوصية بالعربية"
+
+msgid "Promo Code"
+msgstr " كود الخصم"
+
+msgid "Add Promo Code"
+msgstr "اضافة كود الخصم"
+
+msgid "Create Promo Code"
+msgstr "انشاء كود خصم"
+
+msgid "Promo Code Start Date"
+msgstr "انطلاق كود الخصم"
+
+msgid "Promo Code End Date"
+msgstr "انتهاء و بدء كود الخصم"
+
+msgid "Promo Code Discount"
+msgstr "تخفيض كود الخصم"
+
+msgid "Promo Code Status"
+msgstr "حالة كود الخصم"
+
+msgid "Use Number of Time"
+msgstr " استخدام رقم"
+
+msgid "User Restriction Status"
+msgstr "حالة محظورة للعميل"
+
+msgid "Number Of User"
+msgstr "عدد المستخدمين"
+
+msgid "Type"
+msgstr "نوع"
+
+msgid "Max Limit"
+msgstr "الحد الاقصى"
+
+msgid "Description"
+msgstr "وصف"
+
+msgid "View Promo Code"
+msgstr "عرض كود الخصم"
+
+msgid "Max Limit"
+msgstr " الحدود الأقصى"
+
+msgid "Update Promo Code"
+msgstr "تحديث كود الخصم"
+
+msgid "Start To End Date"
+msgstr "تاريخ البدء و الانتهاء"
+
+msgid "Total Used Code"
+msgstr "العدد الكلي للكود"
+
+msgid "Promo Code Details"
+msgstr "تفاصيل كود الخصم"
+
+msgid "Terms Conditions"
+msgstr " الاحكام و الشروط"
+
+msgid "Terms Conditions Description (English)"
+msgstr "الاحكام و الشروط تفاصيل بالانكليزية"
+
+msgid "Terms Conditions Description (Arabic)"
+msgstr " الاحكام و الشروط تفاصيل بالعربية"
+
+msgid "Refund Policy"
+msgstr "سياسة الاستبدال والاسترجاع"
+
+msgid "Refund Policy Description (English)"
+msgstr "شرح سياسةالاسترجاع بالانكليرية"
+
+msgid "Refund Policy Description (Arabic)"
+msgstr "شرح سياسة الاسترجاع بالعربية"
+
+msgid "Publishers"
+msgstr "الناشرون"
+
+msgid "Create Publishers"
+msgstr "انشاء ناشرون"
+
+msgid "Publishers Logo"
+msgstr "لوغو الناشرون"
+
+msgid "View Publishers"
+msgstr "مشاهدة الناشرون"
+
+msgid "Update Publishers"
+msgstr "تحديث الناشرون"
+
+msgid "Logo"
+msgstr "اللوغو"
+
+msgid "Role"
+msgstr "الدور"
+
+msgid "Create Role"
+msgstr "انشاء الدور"
+
+msgid "Role Name"
+msgstr "اسم الدور "
+
+msgid "Role Status"
+msgstr "حالة الدور"
+
+msgid "View Role"
+msgstr "مشاهدة الدور"
+
+msgid "Main Tab Name"
+msgstr "اسم الزر الرئيسي"
+
+msgid "Sub Tab Name"
+msgstr "الاسم الاوسط"
+
+msgid "View"
+msgstr "مشاهدة"
+
+msgid "Add"
+msgstr "اضافة"
+
+msgid "Edit"
+msgstr "تعديل"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "No records found..."
+msgstr ""
+
+msgid "Update Role"
+msgstr "تحديث الدور"
+
+msgid "Series Image"
+msgstr "صورة التسلسل"
+
+msgid "Name(Arabic)"
+msgstr "اسم بالعربية"
+
+msgid "Name(English)"
+msgstr "الاسم بالانكليزية"
+
+msgid "Create Series"
+msgstr "انشاء سلسلة"
+
+msgid "Series"
+msgstr "المجموعات"
+
+msgid "Update Series"
+msgstr "تحديث المجموعات"
+
+msgid "Shipping"
+msgstr "الشحن"
+
+msgid "Create Shipping"
+msgstr "انشاء الشحن"
+
+msgid "Shipping Zone"
+msgstr "قسم الشحن"
+
+msgid "Shipping Price"
+msgstr "تكلفة الشحن"
+
+msgid "Shipping Status"
+msgstr "حالة الشحن"
+
+msgid "Shipping Status"
+msgstr "حالة الشحن"
+
+msgid "Slider Price"
+msgstr "سعر الصفحة"
+
+msgid "Slider Zone"
+msgstr ""
+
+msgid "View Shipping "
+msgstr "عرض الشحن"
+
+msgid "Update Shipping"
+msgstr "تحديث الصفحة"
+
+msgid "Slider Image"
+msgstr "صورة الصفحة"
+
+msgid "Slider Status"
+msgstr "حالة الصفحة"
+
+msgid "Slider title (Arabic)"
+msgstr "عنوان الصفحة"
+
+msgid "Slider title (English)"
+msgstr "عنوان الصفحة بالانكليزية"
+
+msgid "Create Sliders"
+msgstr "انشاء صفحة"
+
+msgid "Sliders"
+msgstr "اللوائح"
+
+msgid "Sliders Image"
+msgstr "صورة اللوائح"
+
+msgid "View Sliders"
+msgstr "مشاهدة اللوائح"
+
+msgid "Slider Image"
+msgstr "صورة اللائحة"
+
+msgid "Sliders Status"
+msgstr "حالة اللوائح"
+
+msgid "Update Sliders"
+msgstr "تحديث اللوائح"
+
+msgid "State Status"
+msgstr "حالة الولاية"
+
+msgid "Country Name"
+msgstr "اسم البلد"
+
+msgid "State Name"
+msgstr "اسم الولاية"
+
+msgid "Create State"
+msgstr "انشاء حالة"
+
+msgid "State"
+msgstr ""
+
+msgid "View State"
+msgstr "مشاهدة الحالة"
+
+msgid "Update State"
+msgstr "تحديث الحالة"
+
+msgid "Last Name"
+msgstr "الاسم الاخير"
+
+msgid "First Name"
+msgstr "الاسم الاول"
+
+msgid "Create Users"
+msgstr "انشاء مستخدمين"
+
+msgid "Users"
+msgstr "المستخدمين"
+
+msgid "Users View"
+msgstr ""
+
+msgid "Create Users Update"
+msgstr ""
+
+msgid "Users Update"
+msgstr "تحديث المستخدمين"
+
+msgid "Order Date"
+msgstr "تاريخ الطلب"
+
+msgid "Customer Email"
+msgstr "بريد الالكتروني للعميل"
+
+msgid "Customer Phone No."
+msgstr "رقم هاتف العميل"
+
+msgid "Order Amount"
+msgstr "تكلفة الطلب"
+
+msgid "Dashboard"
+msgstr "لوحة العرض"
+
+msgid "Authers"
+msgstr "الكتاب"
+
+msgid "Customers"
+msgstr "العملاء"
+
+msgid "Orders"
+msgstr "الطلبات"
+
+msgid "Profile Image"
+msgstr "صورة الملف الشخصي"
+
+msgid "Address"
+msgstr "العنوان"
+
+msgid "Confirm Password"
+msgstr "تاكيد كلمة السر"
+
+msgid "Password"
+msgstr "كلمة السر"
+
+msgid "User Name"
+msgstr "الاسم"
+
+msgid "Profile"
+msgstr " الملف الشخصي "
+
+msgid "Variants"
+msgstr "المتغيرات"
+
+msgid "Value"
+msgstr "القيمة"
+
+msgid "Price"
+msgstr "السعر"
+
+msgid "Value 1"
+msgstr "القيمة 1"
+
+msgid "Price 1"
+msgstr "السعر 1"

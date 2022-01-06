@@ -1,0 +1,58 @@
+<?php
+class Country_model extends CI_Model 
+{
+	function __construct()
+	{
+       parent::__construct();
+	   $this->load->database();
+	}
+/*	Show all  */
+	private function _get_query($param1 = NULL)
+    {  
+    	$column_search = array('country_name');
+    	$sql = array();
+    	$f_sql = '';
+    	$order_by = 'country_id DESC';   
+    	$sql[] = "country_status != '2'";
+        if(sizeof($sql) > 0)
+		$f_sql = implode(' AND ', $sql);
+	
+		if($param1 == 'show_list' && isset($_POST["length"]) && $_POST["length"] != -1)  
+       	{  
+            $limit = $_POST['length'];
+            $offset = $_POST['start'];
+            if($f_sql)
+            { 
+				return "SELECT * FROM `com_country` WHERE $f_sql ORDER BY $order_by LIMIT $limit OFFSET $offset";
+            }
+            else
+            {
+				return "SELECT * FROM `com_country` ORDER BY $order_by LIMIT $limit OFFSET $offset";	
+            }
+       	}  
+       	else
+       	{
+       		if($f_sql)
+            {
+				return "SELECT * FROM `com_country` WHERE $f_sql ORDER BY $order_by";
+            }
+            else
+            {	
+				return "SELECT * FROM `com_country` ORDER BY $order_by";	
+            }
+       	}
+    }
+
+    function count_filtered()
+    {
+       $query = $this->_get_query();
+       return $result = $this->db->query($query)->num_rows();
+    }
+
+	public function getAllDataList($e_limit = NULL,$s_limit = NULL,$cat_id = '')
+	{		
+		$query = $this->_get_query('show_list');
+       	return $result = $this->db->query($query)->result();
+	}
+}
+?>

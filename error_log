@@ -1,0 +1,240 @@
+[27-Oct-2021 14:28:04 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 14:28:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 14:28:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 14:28:08 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 14:28:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 14:28:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 14:30:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 14:32:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 14:32:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 14:32:44 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 14:32:44 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 14:36:41 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 14:36:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 14:36:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 14:36:43 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 14:45:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 14:45:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 14:45:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 14:45:54 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 15:02:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 15:02:08 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 15:02:08 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 15:02:08 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 15:02:13 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 15:02:16 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 15:02:17 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 15:17:56 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 15:18:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 15:18:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 15:20:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 15:23:41 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 15:24:02 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 15:24:05 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 15:24:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 15:24:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 15:24:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 15:25:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 15:25:29 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 15:25:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
+[27-Oct-2021 15:26:09 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getChecksumFromString() in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php:705
+Stack trace:
+#0 /home1/crazywe1/public_html/bookstore_v1/system/core/CodeIgniter.php(360): Home->addShippingData()
+#1 /home1/crazywe1/public_html/bookstore_v1/index.php(201): require_once('/home1/crazywe1...')
+#2 {main}
+  thrown in /home1/crazywe1/public_html/bookstore_v1/application/controllers/home.php on line 705
