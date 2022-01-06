@@ -31,11 +31,11 @@
  */
 class CI_DB_driver {
 
-	var $username		= 'root';
-	var $password		= '';
-	var $hostname		='localhost';
-	var $database		='tursbooks';
-	var $dbdriver		= 'mysqli';
+	var $username;
+	var $password;
+	var $hostname;
+	var $database;
+	var $dbdriver		= 'mysql';
 	var $dbprefix		= '';
 	var $char_set		= 'utf8';
 	var $dbcollat		= 'utf8_general_ci';
